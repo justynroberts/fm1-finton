@@ -1,0 +1,20 @@
+# Finton: tour the screens (btn ids: 11 SEQ, 7 GLO, 8 HOME, 5 LFO, 10 ARP)
+500 btn 12
+2000 btn 11
+2500 btn 1
+3000 btn 7
+3200 keys 0x4
+3300 keys 0
+3400 enc 6 3
+4000 btn 7
+5000 btn 7
+6000 btn 7
+7000 btn 7
+8000 btn 8
+8100 down 8
+9000 up 8
+9500 btn 3
+9600 enc 1 20
+10200 enc 1 12
+10900 enc 1 -40
+11000 end

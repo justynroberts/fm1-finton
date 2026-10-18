@@ -1,0 +1,7 @@
+# ORBIT: play; the FILTER macro down then up; LIFT up; the drop
+300 btn 12
+3000 enc 2 -10
+4500 enc 2 20
+6000 enc 1 30
+8000 enc 1 -40
+9000 end

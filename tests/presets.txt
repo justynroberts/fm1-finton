@@ -1,0 +1,13 @@
+# SCL+PRESETS browses ROLL's presets; GLOBAL SYSTEM sets the tempo
+300 btn 12
+1000 down 3
+1100 enc 6 2
+1200 up 3
+1500 btn 7
+1600 btn 7
+1700 btn 7
+1800 btn 7
+1900 btn 7
+2000 btn 7
+2100 enc 2 2
+2500 end

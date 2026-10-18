@@ -1,0 +1,10 @@
+# PRESETS turns ROLL's cutoff; with REC it records; SCL+PRESETS is tempo
+300 btn 12
+400 btn 13
+1000 enc 6 5
+1100 enc 6 5
+1200 enc 6 -3
+2000 down 3
+2100 enc 6 2
+2200 up 3
+2600 end

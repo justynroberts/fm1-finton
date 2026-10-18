@@ -1,0 +1,15 @@
+# a demo: play, the build on LIFT over bars 5-8, the drop, then the next phrase
+300 btn 12
+7000 enc 1 2
+7500 enc 1 3
+8000 enc 1 3
+8500 enc 1 4
+9000 enc 1 4
+9500 enc 1 4
+10000 enc 1 5
+10500 enc 1 5
+11000 enc 1 2
+13850 enc 1 -40
+19000 btn 11
+22000 btn 8
+26000 end

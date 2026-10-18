@@ -1,0 +1,18 @@
+# record motion on LEAD SUB, save, new song, load it back
+200 btn 12
+300 btn 13
+1000 enc 4 6
+1100 enc 4 6
+1200 enc 4 6
+1300 enc 4 6
+1400 enc 4 -6
+1500 enc 4 -6
+3000 btn 12
+3200 btn 9
+3500 down 3
+3600 btn 10
+3700 up 3
+4000 down 3
+4100 btn 9
+4200 up 3
+4500 end
