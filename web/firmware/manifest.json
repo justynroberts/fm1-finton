@@ -1,8 +1,8 @@
 {
   "file": "finton.fwsc",
   "product": "FM-1_950",
-  "version": "dev",
+  "version": "1.0",
   "size": 610110,
-  "sha256": "db428f58a41632d8f640a5e234543f573782a000b31b354a68727ff02e55e6fd",
+  "sha256": "1f52ec1ddb8d303072445476ea236e8c7b2aa14d778983694148b543f7512bb7",
   "built": "2026-10-18"
 }
